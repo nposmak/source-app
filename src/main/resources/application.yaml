@@ -1,0 +1,13 @@
+server:
+  port: ${app_port}
+
+data:
+  path: ${test_data_path}
+
+task:
+  delay: ${task_delay}
+
+producer:
+  api:
+    url: ${api_url}
+

@@ -1,0 +1,4 @@
+app_port:  8081
+test_data_path: C:\Users\nposm\Desktop\test.csv
+api_url: http://localhost:8082/api/send
+task_delay: 0/10 * * * * *
